@@ -46,7 +46,7 @@ The main objectives of this project are:
 ## General Script Workflow
 The following flowchart summarizes the general execution logic of the program:
 
-![Program flow diagram](images/flowchart.png)
+![Program flow diagram](images/flowchart2.png)
 
 ---
 
